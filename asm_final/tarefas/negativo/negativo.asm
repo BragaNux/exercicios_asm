@@ -25,3 +25,5 @@ _start:
 	mov rax, 60
 	xor rdi, rdi
 	syscall
+
+;só dei cp de multiplicacao, será feito na proxima aula
