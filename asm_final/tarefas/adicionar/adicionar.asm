@@ -1,4 +1,5 @@
 section .data
+	newline db 10
 
 section .bss
 	buffer resb 1
